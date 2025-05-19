@@ -15,7 +15,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://zxwiper.t.me/) 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/)   -->
-[![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:sardorsafarov143@gmail.com) 
+[![Gmail](https://img.shields.io/badge/sardorsafarov143@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:sardorsafarov143@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/VOfRn2ZZz0/)
 
 
